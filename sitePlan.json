@@ -1,0 +1,42 @@
+{
+  "businessName": "Ojuolasplace & Egbiakemesplace",
+  "industry": "Fashion and Creative Design",
+  "tone": "creative and elegant",
+  "tagline": "Where Style Meets Creative Excellence in Abuja",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Ojuolasplace & Egbiakemesplace – Abuja's Premier Fashion and Creative Design Studio. We bring your vision to life with bespoke fashion pieces and innovative creative designs that celebrate your unique style. From custom clothing to complete brand identity solutions, we craft excellence tailored to you.",
+      "imagePrompt": "Elegant Nigerian fashion studio interior in Abuja with modern African-inspired decor, colorful vibrant fabrics draped artistically, professional sewing machines, mood boards with fashion sketches, natural lighting streaming through large windows, contemporary and sophisticated atmosphere, high-end boutique feel",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "At Ojuolasplace & Egbiakemesplace, we are passionate about transforming ideas into stunning realities. Based in Lugbe, Abuja, our studio specializes in fashion design and creative services that reflect the vibrant spirit of Nigerian style. With years of experience and a commitment to quality craftsmanship, we work closely with each client to understand their needs and deliver designs that exceed expectations. Whether you need a show-stopping outfit for a special occasion, everyday wear with a unique twist, or complete creative design solutions for your brand, we're here to make it happen. Our attention to detail, personalized service, and dedication to excellence have made us a trusted name in Abuja's fashion community.",
+      "imagePrompt": "Professional Nigerian fashion designers at work in a bright studio, measuring fabric on dress forms, surrounded by colorful African print materials, sketches and design boards on walls, collaborative creative atmosphere, diverse Nigerian clientele being fitted, warm and inviting workspace in Abuja",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "**Custom Fashion Design** – Bespoke clothing tailored to your exact measurements and style preferences. From traditional Nigerian attire to contemporary fashion, we create pieces that fit perfectly and look stunning.\n\n**Ready-to-Wear Collections** – Curated fashion pieces designed with the modern Nigerian in mind. Quality craftsmanship meets accessible style.\n\n**Creative Design Services** – Complete brand identity development, graphic design, and visual content creation for businesses and individuals looking to stand out.\n\n**Alterations & Modifications** – Expert tailoring services to ensure your existing wardrobe fits perfectly and looks its best.\n\n**Fashion Consultation** – Personal styling advice and wardrobe planning to help you discover and refine your unique style.\n\n**Event Styling** – Complete outfit planning and creation for weddings, parties, corporate events, and special occasions.",
+      "imagePrompt": "Grid showcase of fashion services: elegant custom-made Nigerian wedding outfit on mannequin, vibrant ready-to-wear collection on rack, designer working on brand identity graphics on computer, tailor making precise alterations, stylist consulting with client showing fabric swatches, glamorous event outfits displayed, professional Abuja fashion studio setting",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to elevate your style? Visit us in Lugbe, Abuja, or reach out to discuss your fashion and creative design needs. We're excited to work with you and bring your vision to life. Book a consultation today and let's create something extraordinary together.\n\n**Location:** Lugbe, Abuja, Nigeria\n**Phone:** 08037491706\n**WhatsApp:** Chat with us instantly for quick inquiries and bookings.\n\nWalk-ins are welcome, but we recommend scheduling an appointment to ensure we give you our full attention and expertise.",
+      "imagePrompt": "Welcoming Nigerian fashion boutique storefront in Lugbe Abuja, modern signage, large glass windows displaying beautiful fashion pieces, customer-friendly entrance, vibrant Abuja street scene, professional yet approachable atmosphere, daylight photography, contemporary African business aesthetic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "08037491706",
+    "email": "",
+    "address": "Lugbe, Abuja, Nigeria",
+    "whatsapp": "https://wa.me/2348037491706"
+  }
+}
